@@ -1,0 +1,26 @@
+====================================
+       PROCESSAMENTO DO CSV
+====================================
+
+Arquivo: IntegraçãoCliente1.csv
+Situacao: CONFORME AO CONTRATO
+
+Total de registros: 200
+
+Registros processados: 200
+Registros rejeitados: 0
+
+Gravados no banco: 200 inseridos, 0 atualizados
+Total de clientes na base: 200
+
+------------------------------------
+ERROS ENCONTRADOS
+------------------------------------
+
+Nenhum erro encontrado.
+
+------------------------------------
+DESVIOS DE ESTRUTURA TOLERADOS
+------------------------------------
+
+Nome do arquivo "IntegraçãoCliente1.csv" difere do contrato ("sistema_clientes.csv"). Aceito: nao afeta o conteudo.

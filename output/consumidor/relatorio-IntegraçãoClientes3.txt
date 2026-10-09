@@ -1,0 +1,140 @@
+====================================
+       PROCESSAMENTO DO CSV
+====================================
+
+Arquivo: IntegraçãoClientes3.csv
+Situacao: NAO CONFORME AO CONTRATO
+
+Total de registros: 200
+
+Registros processados: 174
+Registros rejeitados: 26
+
+Gravados no banco: 0 inseridos, 174 atualizados
+Total de clientes na base: 200
+
+------------------------------------
+ERROS ENCONTRADOS
+------------------------------------
+
+Linha 3:
+Espacos indevidos em volta do delimitador.
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 4:
+Quantidade de campos invalida (esperado 6, recebido 7).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 6:
+Quantidade de campos invalida (esperado 6, recebido 5).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 7:
+Formato de data nao permitido (esperado DD/MM/YYYY).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 11:
+Quantidade de campos invalida (esperado 6, recebido 7).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 16:
+Formato de data nao permitido (esperado DD/MM/YYYY).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 19:
+Quantidade de campos invalida (esperado 6, recebido 5).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 21:
+Quantidade de campos invalida (esperado 6, recebido 7).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 53:
+Quantidade de campos invalida (esperado 6, recebido 5).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 60:
+Formato de data nao permitido (esperado DD/MM/YYYY).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 70:
+nome contem caracteres especiais proibidos.
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 78:
+Quantidade de campos invalida (esperado 6, recebido 7).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 86:
+Formato de data nao permitido (esperado DD/MM/YYYY).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 97:
+Formato de data nao permitido (esperado DD/MM/YYYY).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 108:
+Quantidade de campos invalida (esperado 6, recebido 5).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 116:
+Formato de data nao permitido (esperado DD/MM/YYYY).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 125:
+Quantidade de campos invalida (esperado 6, recebido 5).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 138:
+Formato de data nao permitido (esperado DD/MM/YYYY).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 142:
+nome contem caracteres especiais proibidos.
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 144:
+Formato de data nao permitido (esperado DD/MM/YYYY).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 152:
+Quantidade de campos invalida (esperado 6, recebido 7).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 186:
+Quantidade de campos invalida (esperado 6, recebido 5).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 188:
+Quantidade de campos invalida (esperado 6, recebido 7).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 200:
+Quantidade de campos invalida (esperado 6, recebido 7).
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 28:
+Conflito ao gravar o cliente 27: UNIQUE constraint failed: clientes.email.
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+Linha 141:
+Conflito ao gravar o cliente 140: UNIQUE constraint failed: clientes.email.
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoClientes3.csv.
+
+------------------------------------
+DESVIOS DE ESTRUTURA TOLERADOS
+------------------------------------
+
+Nome do arquivo "IntegraçãoClientes3.csv" difere do contrato ("sistema_clientes.csv"). Aceito: nao afeta o conteudo.
+
+Quebra de linha CRLF em vez de LF (contrato, secao 2). Aceito: tratado na leitura.
+
+------------------------------------
+OBSERVACOES
+------------------------------------
+
+Cabecalho incompleto: faltam as colunas "cidade, ativo". Como as colunas presentes seguem a ordem do contrato, os registros foram lidos pela posicao e o processamento continuou (processamento parcial).
+
+Conflito entre remessas na linha 28: o cliente 27 usa um e-mail que ja pertence a outro id no banco. O arquivo esta conforme o contrato, mas os dois registros nao podem coexistir com "email" unico - e preciso alinhar com o produtor qual dos dois ids e o correto.
+
+Conflito entre remessas na linha 141: o cliente 140 usa um e-mail que ja pertence a outro id no banco. O arquivo esta conforme o contrato, mas os dois registros nao podem coexistir com "email" unico - e preciso alinhar com o produtor qual dos dois ids e o correto.

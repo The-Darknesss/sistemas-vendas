@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Paleta de status: reservada para estado (nunca para identificar uma serie).
+   Cada uso vem sempre acompanhado de icone + rotulo, nunca so a cor. */
+@theme {
+  --color-status-good: #0ca30c;
+  --color-status-warning: #fab219;
+  --color-status-serious: #ec835a;
+  --color-status-critical: #d03b3b;
+}
+
+body {
+  background-color: var(--color-stone-100);
+}

@@ -1,0 +1,33 @@
+====================================
+       PROCESSAMENTO DO CSV
+====================================
+
+Arquivo: IntegraçãoCliente5.csv
+Situacao: ARQUIVO REJEITADO INTEGRALMENTE
+
+Total de registros: 0 (arquivo nao pode ser lido conforme o contrato)
+
+Registros processados: 0
+Registros rejeitados: todos (arquivo inteiro)
+
+------------------------------------
+ERRO DE ESTRUTURA
+------------------------------------
+
+Cabecalho do arquivo "IntegraçãoCliente5.csv" nao corresponde ao contrato. Esperado "id_cliente;nome;email;data_nascimento;cidade;ativo", recebido "cidade;ativo;idade;id_cliente;nome;data_nascimento". As colunas nao podem ser mapeadas com seguranca, entao o arquivo e rejeitado integralmente e outra remessa deve ser solicitada (Etapa 2 - Validacao estrutural).
+
+Tratamento: nenhum registro foi gravado no banco. O arquivo foi recusado por inteiro e uma nova remessa (arquivo de substituicao) foi solicitada ao produtor.
+
+------------------------------------
+DESVIOS DE ESTRUTURA TOLERADOS
+------------------------------------
+
+Nome do arquivo "IntegraçãoCliente5.csv" difere do contrato ("sistema_clientes.csv"). Aceito: nao afeta o conteudo.
+
+Quebra de linha CRLF em vez de LF (contrato, secao 2). Aceito: tratado na leitura.
+
+------------------------------------
+OBSERVACOES
+------------------------------------
+
+Remessa fora da sequencia: o arquivo "IntegraçãoCliente5.csv" traz a sequencia 5, mas a esperada era 4 (ultima recebida: 3).

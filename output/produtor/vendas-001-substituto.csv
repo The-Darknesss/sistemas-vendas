@@ -1,0 +1,221 @@
+id_venda;id_cliente;id_produto;quantidade;valor_unitario;valor_total;data_venda;forma_pagamento;status;integrante;email
+1;125;307;10;199.90;1999.00;09/08/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+2;138;303;8;249.90;1999.20;04/08/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+3;138;313;8;2799.90;22399.20;24/03/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+4;139;303;2;249.90;499.80;02/07/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+5;118;308;1;349.90;349.90;26/07/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+6;108;310;4;449.90;1799.60;07/06/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+7;117;310;2;449.90;899.80;02/01/2026;CARTAO;CANCELADA;Paulo Eduardo;paulo.eduardo@grupo2.com
+8;131;301;4;4499.90;17999.60;14/02/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+9;122;313;5;2799.90;13999.50;09/07/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+10;129;304;7;1899.90;13299.30;19/03/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+11;131;307;10;199.90;1999.00;15/04/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+12;125;305;7;499.90;3499.30;27/04/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+13;114;308;6;349.90;2099.40;07/03/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+14;105;313;7;2799.90;19599.30;07/04/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+15;136;312;3;1499.90;4499.70;13/02/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+16;121;311;8;159.90;1279.20;29/01/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+17;105;315;1;429.90;429.90;11/06/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+18;101;303;9;249.90;2249.10;23/02/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+19;117;311;5;159.90;799.50;06/02/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+20;118;312;3;1499.90;4499.70;10/03/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+21;131;307;5;199.90;999.50;07/04/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+22;122;310;6;449.90;2699.40;30/08/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+23;138;303;8;249.90;1999.20;27/04/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+24;109;310;5;449.90;2249.50;20/03/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+25;131;306;6;329.90;1979.40;05/07/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+26;102;301;2;4499.90;8999.80;28/03/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+27;124;302;7;89.90;629.30;05/04/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+28;113;309;8;1299.90;10399.20;08/06/2026;CARTAO;CANCELADA;Paulo Eduardo;paulo.eduardo@grupo2.com
+29;126;311;1;159.90;159.90;20/05/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+30;133;304;4;1899.90;7599.60;11/04/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+31;102;304;10;1899.90;18999.00;23/02/2026;BOLETO;CANCELADA;Paulo Eduardo;paulo.eduardo@grupo2.com
+32;134;307;4;199.90;799.60;18/01/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+33;112;311;9;159.90;1439.10;14/07/2026;PIX;CANCELADA;Hyago Fernandes;hyago.fernandes@grupo2.com
+34;109;301;3;4499.90;13499.70;17/02/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+35;139;304;4;1899.90;7599.60;02/01/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+36;133;305;10;499.90;4999.00;16/08/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+37;137;304;7;1899.90;13299.30;05/03/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+38;123;301;5;4499.90;22499.50;21/06/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+39;124;304;1;1899.90;1899.90;15/04/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+40;129;313;5;2799.90;13999.50;06/04/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+41;124;315;8;429.90;3439.20;24/03/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+42;107;307;2;199.90;399.80;01/05/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+43;139;311;2;159.90;319.80;14/07/2026;CARTAO;CANCELADA;Paulo Eduardo;paulo.eduardo@grupo2.com
+44;111;312;3;1499.90;4499.70;15/02/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+45;112;311;9;159.90;1439.10;04/05/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+46;106;314;1;899.90;899.90;07/01/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+47;108;301;4;4499.90;17999.60;05/03/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+48;114;309;10;1299.90;12999.00;29/08/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+49;137;304;1;1899.90;1899.90;14/08/2026;PIX;CANCELADA;Paulo Eduardo;paulo.eduardo@grupo2.com
+50;122;313;9;2799.90;25199.10;28/04/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+51;139;302;4;89.90;359.60;10/09/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+52;134;308;7;349.90;2449.30;13/03/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+53;121;309;7;1299.90;9099.30;26/03/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+54;134;313;7;2799.90;19599.30;23/05/2026;BOLETO;CANCELADA;Hyago Fernandes;hyago.fernandes@grupo2.com
+55;103;313;3;2799.90;8399.70;15/05/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+56;128;315;10;429.90;4299.00;17/05/2026;PIX;CANCELADA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+57;128;306;5;329.90;1649.50;30/06/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+58;134;302;9;89.90;809.10;06/05/2026;CARTAO;CANCELADA;Paulo Eduardo;paulo.eduardo@grupo2.com
+59;125;309;10;1299.90;12999.00;08/05/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+60;140;313;8;2799.90;22399.20;02/08/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+61;127;311;8;159.90;1279.20;23/06/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+62;122;309;4;1299.90;5199.60;04/08/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+63;115;315;8;429.90;3439.20;09/01/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+64;108;313;8;2799.90;22399.20;17/03/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+65;137;312;10;1499.90;14999.00;16/08/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+66;135;307;8;199.90;1599.20;07/08/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+67;125;314;10;899.90;8999.00;25/06/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+68;105;314;4;899.90;3599.60;06/04/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+69;121;312;8;1499.90;11999.20;18/01/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+70;135;303;9;249.90;2249.10;09/03/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+71;136;309;5;1299.90;6499.50;07/09/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+72;134;303;8;249.90;1999.20;25/07/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+73;109;301;6;4499.90;26999.40;05/07/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+74;129;307;8;199.90;1599.20;05/03/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+75;101;314;9;899.90;8099.10;23/08/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+76;122;311;5;159.90;799.50;05/07/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+77;104;314;2;899.90;1799.80;06/07/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+78;123;309;8;1299.90;10399.20;10/05/2026;BOLETO;CANCELADA;Hyago Fernandes;hyago.fernandes@grupo2.com
+79;101;303;8;249.90;1999.20;13/01/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+80;138;307;8;199.90;1599.20;07/07/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+81;124;312;10;1499.90;14999.00;06/06/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+82;102;313;5;2799.90;13999.50;06/07/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+83;130;303;9;249.90;2249.10;10/02/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+84;106;308;7;349.90;2449.30;10/03/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+85;137;310;5;449.90;2249.50;07/01/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+86;113;311;4;159.90;639.60;18/08/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+87;119;302;3;89.90;269.70;06/04/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+88;136;305;8;499.90;3999.20;01/02/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+89;105;305;8;499.90;3999.20;31/08/2026;PIX;CANCELADA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+90;101;313;8;2799.90;22399.20;06/02/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+91;132;314;9;899.90;8099.10;09/06/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+92;124;303;3;249.90;749.70;22/07/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+93;111;303;10;249.90;2499.00;23/04/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+94;101;308;9;349.90;3149.10;17/08/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+95;132;305;4;499.90;1999.60;07/06/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+96;137;304;2;1899.90;3799.80;24/02/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+97;119;309;5;1299.90;6499.50;17/02/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+98;102;313;5;2799.90;13999.50;18/03/2026;PIX;CANCELADA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+99;132;301;8;4499.90;35999.20;04/02/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+100;120;305;6;499.90;2999.40;24/06/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+101;114;302;10;89.90;899.00;10/06/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+102;119;312;5;1499.90;7499.50;22/05/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+103;107;309;9;1299.90;11699.10;07/04/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+104;115;312;7;1499.90;10499.30;10/05/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+105;110;311;4;159.90;639.60;15/02/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+106;123;312;7;1499.90;10499.30;05/03/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+107;134;312;3;1499.90;4499.70;23/04/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+108;136;305;5;499.90;2499.50;31/05/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+109;116;309;5;1299.90;6499.50;17/02/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+110;128;303;1;249.90;249.90;20/07/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+111;119;303;3;249.90;749.70;21/07/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+112;106;305;5;499.90;2499.50;29/05/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+113;130;314;5;899.90;4499.50;23/05/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+114;127;305;9;499.90;4499.10;03/03/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+115;120;304;5;1899.90;9499.50;13/05/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+116;102;301;8;4499.90;35999.20;20/07/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+117;110;311;2;159.90;319.80;26/04/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+118;136;315;4;429.90;1719.60;30/07/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+119;113;312;5;1499.90;7499.50;01/01/2026;PIX;CANCELADA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+120;124;313;7;2799.90;19599.30;06/02/2026;BOLETO;CANCELADA;Hyago Fernandes;hyago.fernandes@grupo2.com
+121;117;302;7;89.90;629.30;06/06/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+122;102;310;4;449.90;1799.60;13/08/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+123;126;302;5;89.90;449.50;01/08/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+124;119;307;8;199.90;1599.20;14/07/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+125;123;311;3;159.90;479.70;26/08/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+126;122;315;1;429.90;429.90;01/01/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+127;140;302;4;89.90;359.60;15/01/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+128;113;303;6;249.90;1499.40;09/01/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+129;103;308;9;349.90;3149.10;18/03/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+130;104;305;9;499.90;4499.10;23/08/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+131;133;312;3;1499.90;4499.70;23/04/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+132;119;306;2;329.90;659.80;22/08/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+133;122;311;10;159.90;1599.00;02/04/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+134;104;306;6;329.90;1979.40;05/08/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+135;132;315;5;429.90;2149.50;25/02/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+136;130;303;9;249.90;2249.10;02/03/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+137;140;314;4;899.90;3599.60;14/02/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+138;127;310;7;449.90;3149.30;14/05/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+139;117;306;8;329.90;2639.20;03/08/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+140;128;312;5;1499.90;7499.50;15/03/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+141;129;307;2;199.90;399.80;27/08/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+142;137;304;7;1899.90;13299.30;28/05/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+143;126;306;3;329.90;989.70;08/04/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+144;114;302;8;89.90;719.20;02/03/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+145;110;310;5;449.90;2249.50;27/07/2026;CARTAO;CANCELADA;Paulo Eduardo;paulo.eduardo@grupo2.com
+146;140;306;3;329.90;989.70;20/02/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+147;130;305;3;499.90;1499.70;23/06/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+148;101;303;3;249.90;749.70;02/04/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+149;120;315;4;429.90;1719.60;02/04/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+150;105;309;9;1299.90;11699.10;02/02/2026;CARTAO;CANCELADA;Hyago Fernandes;hyago.fernandes@grupo2.com
+151;135;306;7;329.90;2309.30;15/08/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+152;116;313;6;2799.90;16799.40;31/08/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+153;116;311;6;159.90;959.40;24/05/2026;CARTAO;CANCELADA;Hyago Fernandes;hyago.fernandes@grupo2.com
+154;114;302;9;89.90;809.10;29/07/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+155;115;310;2;449.90;899.80;05/01/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+156;136;314;1;899.90;899.90;25/05/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+157;132;314;5;899.90;4499.50;03/01/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+158;136;310;8;449.90;3599.20;11/07/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+159;105;307;3;199.90;599.70;19/06/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+160;137;309;2;1299.90;2599.80;08/01/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+161;114;310;6;449.90;2699.40;16/08/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+162;131;313;9;2799.90;25199.10;05/04/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+163;121;306;6;329.90;1979.40;22/04/2026;BOLETO;CANCELADA;Paulo Eduardo;paulo.eduardo@grupo2.com
+164;120;305;8;499.90;3999.20;16/02/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+165;101;308;2;349.90;699.80;03/01/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+166;110;313;5;2799.90;13999.50;04/02/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+167;121;303;8;249.90;1999.20;11/07/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+168;102;306;3;329.90;989.70;24/01/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+169;128;307;10;199.90;1999.00;29/06/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+170;133;310;4;449.90;1799.60;05/03/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+171;140;313;5;2799.90;13999.50;26/06/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+172;124;302;5;89.90;449.50;12/08/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+173;128;301;5;4499.90;22499.50;15/06/2026;CARTAO;CANCELADA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+174;126;306;5;329.90;1649.50;14/07/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+175;118;306;1;329.90;329.90;24/04/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+176;133;306;9;329.90;2969.10;03/06/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+177;104;305;6;499.90;2999.40;23/07/2026;PIX;CANCELADA;Hyago Fernandes;hyago.fernandes@grupo2.com
+178;114;312;4;1499.90;5999.60;14/01/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+179;129;304;7;1899.90;13299.30;11/08/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+180;106;303;6;249.90;1499.40;08/08/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+181;122;311;5;159.90;799.50;02/08/2026;BOLETO;CANCELADA;Paulo Eduardo;paulo.eduardo@grupo2.com
+182;107;307;4;199.90;799.60;07/03/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+183;129;309;1;1299.90;1299.90;30/04/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+184;108;308;5;349.90;1749.50;28/04/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+185;136;312;6;1499.90;8999.40;05/01/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+186;113;310;10;449.90;4499.00;27/01/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+187;104;315;5;429.90;2149.50;29/04/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+188;123;310;8;449.90;3599.20;18/08/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+189;113;301;2;4499.90;8999.80;29/08/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+190;121;315;8;429.90;3439.20;08/05/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+191;135;308;8;349.90;2799.20;31/03/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+192;132;304;10;1899.90;18999.00;23/03/2026;BOLETO;CANCELADA;Hyago Fernandes;hyago.fernandes@grupo2.com
+193;127;307;5;199.90;999.50;22/02/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+194;115;301;10;4499.90;44999.00;05/01/2026;BOLETO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+195;101;313;8;2799.90;22399.20;22/08/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+196;119;302;4;89.90;359.60;11/06/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+197;104;311;7;159.90;1119.30;09/05/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+198;117;307;9;199.90;1799.10;19/04/2026;PIX;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+199;120;301;10;4499.90;44999.00;25/02/2026;PIX;CANCELADA;Paulo Eduardo;paulo.eduardo@grupo2.com
+200;110;314;5;899.90;4499.50;22/07/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+201;108;312;7;1499.90;10499.30;12/01/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+202;104;310;3;449.90;1349.70;06/03/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+203;116;312;2;1499.90;2999.80;20/02/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+204;111;311;1;159.90;159.90;22/01/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+205;101;315;8;429.90;3439.20;11/04/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+206;116;315;2;429.90;859.80;09/07/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+207;129;305;7;499.90;3499.30;17/02/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+208;132;311;2;159.90;319.80;28/02/2026;BOLETO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+209;131;315;7;429.90;3009.30;25/01/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+210;123;313;7;2799.90;19599.30;07/01/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+211;108;309;7;1299.90;9099.30;28/03/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+212;133;312;9;1499.90;13499.10;23/02/2026;CARTAO;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+213;131;314;9;899.90;8099.10;30/03/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+214;138;303;8;249.90;1999.20;09/01/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+215;119;304;4;1899.90;7599.60;22/05/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+216;109;308;10;349.90;3499.00;08/07/2026;CARTAO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+217;102;307;10;199.90;1999.00;05/07/2026;CARTAO;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com
+218;124;311;2;159.90;319.80;11/05/2026;PIX;CONCLUIDA;Joao Pedro Azevedo;joao.pedro@grupo2.com
+219;109;313;5;2799.90;13999.50;18/04/2026;BOLETO;CONCLUIDA;Hyago Fernandes;hyago.fernandes@grupo2.com
+220;125;302;4;89.90;359.60;20/04/2026;PIX;CONCLUIDA;Paulo Eduardo;paulo.eduardo@grupo2.com

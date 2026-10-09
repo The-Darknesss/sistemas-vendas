@@ -1,0 +1,34 @@
+====================================
+       PROCESSAMENTO DO CSV
+====================================
+
+Arquivo: IntegraçãoCliente2.csv
+Situacao: CONFORME AO CONTRATO
+
+Total de registros: 200
+
+Registros processados: 199
+Registros rejeitados: 1
+
+Gravados no banco: 0 inseridos, 199 atualizados
+Total de clientes na base: 200
+
+------------------------------------
+ERROS ENCONTRADOS
+------------------------------------
+
+Linha 8:
+Conflito ao gravar o cliente 7: UNIQUE constraint failed: clientes.email.
+Tratamento: registro rejeitado, nao gravado no banco e enviado para rejeitados-IntegraçãoCliente2.csv.
+
+------------------------------------
+DESVIOS DE ESTRUTURA TOLERADOS
+------------------------------------
+
+Nome do arquivo "IntegraçãoCliente2.csv" difere do contrato ("sistema_clientes.csv"). Aceito: nao afeta o conteudo.
+
+------------------------------------
+OBSERVACOES
+------------------------------------
+
+Conflito entre remessas na linha 8: o cliente 7 usa um e-mail que ja pertence a outro id no banco. O arquivo esta conforme o contrato, mas os dois registros nao podem coexistir com "email" unico - e preciso alinhar com o produtor qual dos dois ids e o correto.

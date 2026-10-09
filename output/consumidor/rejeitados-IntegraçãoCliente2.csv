@@ -1,0 +1,2 @@
+linha;motivo;dados
+8;Conflito ao gravar o cliente 7: UNIQUE constraint failed: clientes.email;
